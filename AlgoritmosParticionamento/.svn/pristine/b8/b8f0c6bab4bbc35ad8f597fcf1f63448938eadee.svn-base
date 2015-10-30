@@ -1,0 +1,715 @@
+			ARQUIVO DIABETES
+**********************************************************************
+
+			CENTRO ALEATÓRIO
+----------------------------------------------------------------------
+
+Experimento nº 1 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 2 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 3 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 4 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 5 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 6 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		130		133
+TEGC: 0.32421875
+
+Experimento nº 7 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 8 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 9 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 10 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 11 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 12 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		130		133
+TEGC: 0.32421875
+
+Experimento nº 13 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 14 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 15 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 16 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 17 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 18 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 19 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 20 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 21 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 22 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 23 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 24 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 25 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 26 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 27 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 28 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 29 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 30 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 31 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 32 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 33 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 34 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 35 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 36 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 37 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 38 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 39 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		476		29
+Class: 2:		247		16
+TEGC: 0.3424479166666667
+
+Experimento nº 40 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 41 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 42 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 43 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 44 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 45 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 46 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 47 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 48 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		386		119
+Class: 2:		131		132
+TEGC: 0.3255208333333333
+
+Experimento nº 49 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 50 de Diabetes (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Erro médio: 0.32580729166666683
+Std: 4.092261904764527E-5
+
+			AFETAÇÃO ALEATÓRIA
+----------------------------------------------------------------------
+
+Experimento nº 1 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 2 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 3 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 4 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 5 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 6 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 7 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 8 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 9 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 10 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 11 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 12 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 13 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 14 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 15 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 16 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 17 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 18 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 19 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 20 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 21 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 22 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 23 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 24 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 25 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 26 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 27 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 28 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 29 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 30 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 31 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 32 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 33 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 34 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 35 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 36 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 37 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 38 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 39 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 40 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 41 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 42 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 43 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 44 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 45 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 46 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 47 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 48 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 49 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Experimento nº 50 de Diabetes (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		385		120
+Class: 2:		130		133
+TEGC: 0.3255208333333333
+
+Erro médio: 0.3255208333333336
+Std: 3.9650822308041306E-17
+

@@ -1,0 +1,1215 @@
+			ARQUIVO SEGMENTED IMAGES
+**********************************************************************
+
+			CENTRO ALEATÓRIO
+----------------------------------------------------------------------
+
+Experimento nº 1 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		5		6		6		7
+Class: 1:		184		0		69		77		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		50		12		11		0
+Class: 4:		46		0		1		8		157		118		0
+Class: 5:		44		0		53		207		26		0		0
+Class: 6:		29		0		0		0		175		126		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 2 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		6		3		4		4		2		7
+Class: 1:		317		0		0		0		13		0		0
+Class: 2:		0		0		0		0		0		330		0
+Class: 3:		295		2		23		1		4		0		5
+Class: 4:		38		20		2		121		149		0		0
+Class: 5:		225		1		0		0		66		0		38
+Class: 6:		0		196		3		0		131		0		0
+Class: 7:		1		0		1		0		0		0		328
+TEGC: 0.36623376623376624
+
+Experimento nº 3 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		6		2		7		5		6		7
+Class: 1:		244		14		0		0		72		0		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		190		12		0		1		115		12		0
+Class: 4:		32		162		0		0		6		130		0
+Class: 5:		76		36		0		41		177		0		0
+Class: 6:		19		173		0		0		0		138		0
+Class: 7:		2		1		0		150		0		0		177
+TEGC: 0.3987012987012987
+
+Experimento nº 4 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		3		6		2		5		6		7
+Class: 1:		184		69		0		0		77		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		61		196		11		0		50		12		0
+Class: 4:		46		1		118		0		8		157		0
+Class: 5:		44		53		0		0		207		26		0
+Class: 6:		29		0		126		0		0		175		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.33116883116883117
+
+Experimento nº 5 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		6		2		3		1		5		6		7
+Class: 1:		0		0		70		184		76		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		11		0		196		61		50		12		0
+Class: 4:		118		0		1		47		8		156		0
+Class: 5:		0		0		54		48		209		19		0
+Class: 6:		126		0		0		29		0		175		0
+Class: 7:		0		0		0		2		0		1		327
+TEGC: 0.3303030303030303
+
+Experimento nº 6 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		7		2		6		5		6		7
+Class: 1:		244		0		0		0		72		14		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		190		0		0		12		115		12		1
+Class: 4:		32		0		0		130		6		162		0
+Class: 5:		76		0		0		0		177		36		41
+Class: 6:		19		0		0		138		0		173		0
+Class: 7:		2		177		0		0		0		1		150
+TEGC: 0.3987012987012987
+
+Experimento nº 7 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		12		50		11		0
+Class: 4:		46		0		1		157		8		118		0
+Class: 5:		44		0		53		26		207		0		0
+Class: 6:		29		0		0		175		0		126		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 8 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		7
+Class: 1:		184		0		75		0		71		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		64		0		193		0		53		19		1
+Class: 4:		58		0		3		0		9		260		0
+Class: 5:		55		0		47		0		179		11		38
+Class: 6:		37		0		0		0		0		293		0
+Class: 7:		2		0		0		178		0		0		150
+TEGC: 0.3476190476190476
+
+Experimento nº 9 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		3		7		1		2		5		6		7
+Class: 1:		70		0		184		0		76		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		196		4		59		0		52		19		0
+Class: 4:		2		0		55		0		14		259		0
+Class: 5:		56		0		52		0		211		11		0
+Class: 6:		0		0		37		0		0		293		0
+Class: 7:		0		172		1		0		1		0		156
+TEGC: 0.33246753246753247
+
+Experimento nº 10 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		6		2		3		7		5		6		1
+Class: 1:		0		0		69		0		77		0		184
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		11		0		196		0		50		12		61
+Class: 4:		118		0		1		0		8		157		46
+Class: 5:		0		0		53		0		207		26		44
+Class: 6:		126		0		0		0		0		175		29
+Class: 7:		0		0		0		327		0		1		2
+TEGC: 0.33116883116883117
+
+Experimento nº 11 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		4		4		2		5		6		7
+Class: 1:		226		29		0		0		75		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		187		7		19		0		116		0		1
+Class: 4:		31		149		128		0		7		15		0
+Class: 5:		69		56		0		0		167		0		38
+Class: 6:		19		89		0		0		0		222		0
+Class: 7:		2		1		0		0		0		0		327
+TEGC: 0.3294372294372294
+
+Experimento nº 12 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		2		6		2		6		7
+Class: 1:		321		0		0		9		0		0		0
+Class: 2:		0		162		117		0		51		0		0
+Class: 3:		298		0		0		12		0		15		5
+Class: 4:		37		0		0		160		0		133		0
+Class: 5:		237		0		0		54		0		1		38
+Class: 6:		1		0		0		176		0		153		0
+Class: 7:		1		0		0		1		0		0		328
+TEGC: 0.43376623376623374
+
+Experimento nº 13 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1		3		6		5		6		7
+Class: 1:		0		184		69		0		77		0		0
+Class: 2:		330		0		0		0		0		0		0
+Class: 3:		0		61		196		12		50		11		0
+Class: 4:		0		46		1		157		8		118		0
+Class: 5:		0		44		53		26		207		0		0
+Class: 6:		0		29		0		175		0		126		0
+Class: 7:		0		2		0		1		0		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 14 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		6		3		5		2		6		7
+Class: 1:		184		0		69		77		0		0		0
+Class: 2:		0		0		0		0		330		0		0
+Class: 3:		61		11		196		50		0		12		0
+Class: 4:		46		118		1		8		0		157		0
+Class: 5:		43		0		54		207		0		26		0
+Class: 6:		29		126		0		0		0		175		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.33116883116883117
+
+Experimento nº 15 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		5		6		6		7
+Class: 1:		184		0		69		77		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		50		12		11		0
+Class: 4:		46		0		1		8		157		118		0
+Class: 5:		44		0		53		207		26		0		0
+Class: 6:		29		0		0		0		175		126		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 16 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		11		50		12		0
+Class: 4:		46		0		1		118		8		157		0
+Class: 5:		44		0		53		0		207		26		0
+Class: 6:		29		0		0		126		0		175		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.33116883116883117
+
+Experimento nº 17 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		2		5		6		7
+Class: 1:		184		0		70		0		76		0		0
+Class: 2:		0		189		0		141		0		0		0
+Class: 3:		63		0		196		0		52		19		0
+Class: 4:		52		0		2		15		13		248		0
+Class: 5:		52		0		55		0		212		11		0
+Class: 6:		33		0		0		0		0		297		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.3307359307359307
+
+Experimento nº 18 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		11		50		12		0
+Class: 4:		48		0		1		117		8		156		0
+Class: 5:		50		0		53		0		206		21		0
+Class: 6:		30		0		0		126		0		174		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.332034632034632
+
+Experimento nº 19 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		6		2		3		4		5		1		7
+Class: 1:		0		0		225		24		81		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		243		26		60		0		1
+Class: 4:		23		0		29		266		12		0		0
+Class: 5:		0		0		81		28		219		0		2
+Class: 6:		317		0		13		0		0		0		0
+Class: 7:		1		0		2		0		0		0		327
+TEGC: 0.2632034632034632
+
+Experimento nº 20 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		5		2		3		6		7		6		7
+Class: 1:		81		0		238		11		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		59		0		240		12		0		13		6
+Class: 4:		8		0		31		161		0		130		0
+Class: 5:		214		0		84		29		0		1		2
+Class: 6:		0		0		9		177		0		144		0
+Class: 7:		0		0		1		1		156		0		172
+TEGC: 0.37965367965367963
+
+Experimento nº 21 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		3		1		2		6		5		6		7
+Class: 1:		69		184		0		0		77		0		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		196		61		0		12		50		11		0
+Class: 4:		1		46		0		157		8		118		0
+Class: 5:		53		44		0		26		207		0		0
+Class: 6:		0		29		0		175		0		126		0
+Class: 7:		0		2		0		1		0		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 22 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		2		3		6		7		5		6		7
+Class: 1:		0		238		11		0		81		0		0
+Class: 2:		330		0		0		0		0		0		0
+Class: 3:		0		242		12		5		58		13		0
+Class: 4:		0		31		159		0		8		132		0
+Class: 5:		0		84		29		0		216		1		0
+Class: 6:		0		9		177		0		0		144		0
+Class: 7:		0		1		1		172		0		0		156
+TEGC: 0.37792207792207794
+
+Experimento nº 23 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		2		7
+Class: 1:		184		0		70		0		76		0		0
+Class: 2:		0		145		0		0		0		185		0
+Class: 3:		63		0		196		19		52		0		0
+Class: 4:		52		15		2		248		13		0		0
+Class: 5:		52		0		55		11		212		0		0
+Class: 6:		33		0		0		297		0		0		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.3307359307359307
+
+Experimento nº 24 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		2		2		3		1		5		6		7
+Class: 1:		0		0		70		184		76		0		0
+Class: 2:		190		140		0		0		0		0		0
+Class: 3:		0		0		196		63		52		19		0
+Class: 4:		0		16		1		49		14		250		0
+Class: 5:		0		0		56		51		211		12		0
+Class: 6:		0		0		0		33		0		297		0
+Class: 7:		0		0		0		2		1		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 25 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		2		7
+Class: 1:		184		0		70		0		76		0		0
+Class: 2:		0		190		0		0		0		140		0
+Class: 3:		63		0		196		19		52		0		0
+Class: 4:		52		0		2		247		13		16		0
+Class: 5:		52		0		55		11		212		0		0
+Class: 6:		33		0		0		297		0		0		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.3307359307359307
+
+Experimento nº 26 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		3		2		5		6		7		6		7
+Class: 1:		238		0		81		11		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		243		0		57		12		5		13		0
+Class: 4:		31		0		8		159		0		132		0
+Class: 5:		85		0		215		29		0		1		0
+Class: 6:		5		0		0		176		0		149		0
+Class: 7:		1		0		0		1		172		0		156
+TEGC: 0.3761904761904762
+
+Experimento nº 27 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		6		2		3		1		5		6		7
+Class: 1:		0		0		70		184		76		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		11		0		196		61		50		12		0
+Class: 4:		118		0		1		47		8		156		0
+Class: 5:		0		0		54		48		209		19		0
+Class: 6:		126		0		0		29		0		175		0
+Class: 7:		0		0		0		2		0		1		327
+TEGC: 0.3303030303030303
+
+Experimento nº 28 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		6		2		3		5		6		7
+Class: 1:		184		0		0		69		77		0		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		61		11		0		196		50		12		0
+Class: 4:		48		117		0		1		8		156		0
+Class: 5:		50		0		0		53		206		21		0
+Class: 6:		30		126		0		0		0		174		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.332034632034632
+
+Experimento nº 29 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		6		1		3		2		5		6		7
+Class: 1:		0		184		69		0		77		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		12		61		196		0		50		11		0
+Class: 4:		157		46		1		0		8		118		0
+Class: 5:		26		44		53		0		207		0		0
+Class: 6:		175		29		0		0		0		126		0
+Class: 7:		1		2		0		0		0		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 30 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		5
+Class: 1:		184		0		55		0		64		0		27
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		48		0		193		0		17		19		53
+Class: 4:		58		0		3		0		9		256		4
+Class: 5:		53		0		47		0		73		12		145
+Class: 6:		37		0		0		0		0		293		0
+Class: 7:		1		0		0		327		2		0		0
+TEGC: 0.33116883116883117
+
+Experimento nº 31 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		184		0		68		0		78		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		11		50		12		0
+Class: 4:		46		0		1		118		8		157		0
+Class: 5:		44		0		52		0		208		26		0
+Class: 6:		29		0		0		126		0		175		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.3307359307359307
+
+Experimento nº 32 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		3		2		4		4		5		6		7
+Class: 1:		236		0		0		21		73		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		244		0		19		7		59		0		1
+Class: 4:		31		0		121		151		8		19		0
+Class: 5:		84		0		0		34		212		0		0
+Class: 6:		4		0		0		138		0		188		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.319047619047619
+
+Experimento nº 33 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		7		3		2		5		6		6
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		61		0		196		0		50		11		12
+Class: 4:		46		0		1		0		8		118		157
+Class: 5:		44		0		53		0		207		0		26
+Class: 6:		29		0		0		0		0		126		175
+Class: 7:		2		327		0		0		0		0		1
+TEGC: 0.33116883116883117
+
+Experimento nº 34 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		3		7		6		5
+Class: 1:		184		0		0		70		0		0		76
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		62		0		20		196		0		2		50
+Class: 4:		57		0		2		2		0		255		14
+Class: 5:		54		0		0		56		0		11		209
+Class: 6:		37		0		0		0		0		293		0
+Class: 7:		2		0		0		0		327		0		1
+TEGC: 0.3251082251082251
+
+Experimento nº 35 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		3		2		5		1		5		6		7
+Class: 1:		78		0		68		184		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		192		0		53		57		9		19		0
+Class: 4:		3		0		9		49		3		266		0
+Class: 5:		47		0		155		54		62		12		0
+Class: 6:		0		0		0		35		0		295		0
+Class: 7:		0		0		0		2		1		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 36 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		6		7		5		6		2
+Class: 1:		238		0		0		0		75		17		0
+Class: 2:		0		152		0		0		0		0		178
+Class: 3:		189		0		12		1		116		12		0
+Class: 4:		31		0		130		0		7		162		0
+Class: 5:		75		0		0		38		181		36		0
+Class: 6:		20		0		137		0		0		173		0
+Class: 7:		2		0		0		327		0		1		0
+TEGC: 0.4
+
+Experimento nº 37 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		2		6		5		6		7
+Class: 1:		238		0		0		17		75		0		0
+Class: 2:		0		149		181		0		0		0		0
+Class: 3:		189		0		0		12		116		12		1
+Class: 4:		31		0		0		162		7		130		0
+Class: 5:		75		0		0		36		181		0		38
+Class: 6:		20		0		0		173		0		137		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.4
+
+Experimento nº 38 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		5		6		6		7
+Class: 1:		184		0		69		77		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		50		11		12		0
+Class: 4:		46		0		1		8		118		157		0
+Class: 5:		44		0		53		207		0		26		0
+Class: 6:		29		0		0		0		126		175		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.33116883116883117
+
+Experimento nº 39 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		6
+Class: 1:		184		0		70		0		76		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		0		50		12		11
+Class: 4:		47		0		1		0		8		156		118
+Class: 5:		48		0		54		0		209		19		0
+Class: 6:		30		0		0		0		0		174		126
+Class: 7:		2		0		0		327		0		1		0
+TEGC: 0.3307359307359307
+
+Experimento nº 40 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		2		2		3		4		5		6		7
+Class: 1:		0		0		229		10		85		6		0
+Class: 2:		168		162		0		0		0		0		0
+Class: 3:		0		0		249		0		58		22		1
+Class: 4:		4		0		31		40		15		240		0
+Class: 5:		0		0		82		4		223		19		2
+Class: 6:		0		0		16		36		0		278		0
+Class: 7:		0		0		2		0		1		0		327
+TEGC: 0.3735930735930736
+
+Experimento nº 41 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		6
+Class: 1:		240		0		0		0		73		0		17
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		189		0		19		1		115		3		3
+Class: 4:		31		0		0		0		7		129		163
+Class: 5:		75		0		0		38		181		0		36
+Class: 6:		18		0		0		0		0		139		173
+Class: 7:		2		0		0		327		0		0		1
+TEGC: 0.39004329004329
+
+Experimento nº 42 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		6
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		0		50		11		12
+Class: 4:		48		0		1		0		8		117		156
+Class: 5:		50		0		53		0		206		0		21
+Class: 6:		30		0		0		0		0		126		174
+Class: 7:		2		0		0		327		0		0		1
+TEGC: 0.332034632034632
+
+Experimento nº 43 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		5		2		3		1		5		6		7
+Class: 1:		0		0		78		184		68		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		11		0		193		51		56		19		0
+Class: 4:		3		0		3		58		9		257		0
+Class: 5:		62		0		48		53		155		12		0
+Class: 6:		0		0		0		37		0		293		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.3316017316017316
+
+Experimento nº 44 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		7		2		3		4		5		6		6
+Class: 1:		0		0		238		0		80		12		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		1		0		245		12		59		12		1
+Class: 4:		0		0		31		120		8		152		19
+Class: 5:		3		0		84		0		213		30		0
+Class: 6:		0		0		2		0		0		157		171
+Class: 7:		327		0		2		0		0		1		0
+TEGC: 0.3233766233766234
+
+Experimento nº 45 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		5		2		3		1		2		6		7
+Class: 1:		76		0		70		184		0		0		0
+Class: 2:		0		214		0		0		116		0		0
+Class: 3:		52		0		196		63		0		19		0
+Class: 4:		11		0		2		53		0		264		0
+Class: 5:		213		0		54		52		0		11		0
+Class: 6:		0		0		0		37		0		293		0
+Class: 7:		1		0		0		2		0		0		327
+TEGC: 0.332034632034632
+
+Experimento nº 46 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		5
+Class: 1:		255		0		0		0		0		3		72
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		176		0		24		0		9		4		117
+Class: 4:		33		0		4		0		3		283		7
+Class: 5:		74		0		0		0		62		23		171
+Class: 6:		20		0		4		0		0		306		0
+Class: 7:		2		0		1		327		0		0		0
+TEGC: 0.36147186147186144
+
+Experimento nº 47 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		3		2		3		5		2		6		7
+Class: 1:		0		0		238		85		0		7		0
+Class: 2:		0		127		0		0		203		0		0
+Class: 3:		20		0		245		59		0		6		0
+Class: 4:		0		0		31		15		0		284		0
+Class: 5:		0		0		84		225		0		21		0
+Class: 6:		0		0		18		0		0		312		0
+Class: 7:		0		0		2		1		0		0		327
+TEGC: 0.3683982683982684
+
+Experimento nº 48 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		6		3		5		6		7
+Class: 1:		184		0		0		69		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		11		196		50		12		0
+Class: 4:		46		0		118		1		8		157		0
+Class: 5:		44		0		0		53		207		26		0
+Class: 6:		29		0		126		0		0		175		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.33116883116883117
+
+Experimento nº 49 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		6		2		7		5		6		7
+Class: 1:		242		17		0		0		71		0		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		198		12		0		1		107		12		0
+Class: 4:		31		162		0		0		7		130		0
+Class: 5:		81		32		0		39		178		0		0
+Class: 6:		18		179		0		0		0		133		0
+Class: 7:		2		1		0		150		0		0		177
+TEGC: 0.3987012987012987
+
+Experimento nº 50 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2		3		1		5		6		7
+Class: 1:		51		0		70		133		76		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		4		0		195		60		52		19		0
+Class: 4:		14		0		1		54		11		250		0
+Class: 5:		6		0		55		49		209		11		0
+Class: 6:		0		0		0		40		0		290		0
+Class: 7:		1		0		0		1		1		0		327
+TEGC: 0.3354978354978355
+
+Erro médio: 0.3454372294372295
+Std: 0.0014199134199134244
+
+			AFETAÇÃO ALEATÓRIA
+----------------------------------------------------------------------
+
+Experimento nº 1 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		6		3		2		5		6		7
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		61		12		196		0		50		11		0
+Class: 4:		47		156		1		0		8		118		0
+Class: 5:		43		26		54		0		207		0		0
+Class: 6:		29		175		0		0		0		126		0
+Class: 7:		2		1		0		0		0		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 2 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		6		1		5		6		7
+Class: 1:		0		0		17		238		75		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		12		189		116		12		1
+Class: 4:		0		0		162		31		7		130		0
+Class: 5:		0		0		36		75		181		0		38
+Class: 6:		0		0		173		20		0		137		0
+Class: 7:		0		0		1		2		0		0		327
+TEGC: 0.4
+
+Experimento nº 3 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		4		2		4		5		6		7
+Class: 1:		226		0		0		29		75		0		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		187		19		0		7		116		0		1
+Class: 4:		31		129		0		149		7		14		0
+Class: 5:		69		0		0		56		167		0		38
+Class: 6:		19		0		0		89		0		222		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.329004329004329
+
+Experimento nº 4 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		6		2		3		1		5		3		7
+Class: 1:		7		0		0		0		84		239		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		7		0		18		0		60		244		1
+Class: 4:		280		0		6		0		13		31		0
+Class: 5:		22		0		0		0		221		84		3
+Class: 6:		294		0		17		0		0		19		0
+Class: 7:		0		0		1		0		0		2		327
+TEGC: 0.37922077922077924
+
+Experimento nº 5 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		3		7		6		5
+Class: 1:		184		0		0		70		0		0		76
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		62		0		20		196		0		2		50
+Class: 4:		60		0		4		2		0		252		12
+Class: 5:		54		0		0		54		0		11		211
+Class: 6:		37		0		0		0		0		293		0
+Class: 7:		2		0		0		0		327		0		1
+TEGC: 0.3242424242424242
+
+Experimento nº 6 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		1		6		5		6		7
+Class: 1:		0		0		240		17		73		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		190		12		115		12		1
+Class: 4:		0		0		31		162		7		130		0
+Class: 5:		0		0		75		36		181		0		38
+Class: 6:		0		0		20		173		0		137		0
+Class: 7:		0		0		2		1		0		0		327
+TEGC: 0.3991341991341991
+
+Experimento nº 7 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		219		0		72		0		39		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		178		0		126		12		3		11		0
+Class: 4:		28		0		5		134		30		133		0
+Class: 5:		63		0		121		0		137		9		0
+Class: 6:		18		0		0		135		0		177		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.37186147186147184
+
+Experimento nº 8 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		6		3		5		6		7
+Class: 1:		236		0		0		89		0		5		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		117		0		12		181		8		12		0
+Class: 4:		36		0		128		6		1		159		0
+Class: 5:		57		0		0		165		62		46		0
+Class: 6:		25		0		135		0		0		170		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.3761904761904762
+
+Experimento nº 9 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		1		4		7		6		4
+Class: 1:		0		0		309		20		0		0		1
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		298		7		5		0		20
+Class: 4:		0		0		36		149		0		16		129
+Class: 5:		0		0		220		71		38		0		1
+Class: 6:		0		0		0		113		0		217		0
+Class: 7:		0		0		1		1		328		0		0
+TEGC: 0.3670995670995671
+
+Experimento nº 10 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		5		6		6		7
+Class: 1:		184		0		69		77		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		50		12		11		0
+Class: 4:		46		0		1		8		157		118		0
+Class: 5:		43		0		54		207		26		0		0
+Class: 6:		29		0		0		0		175		126		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 11 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		1		1		1		1		1		1
+Class: 1:		0		330		0		0		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		330		0		0		0		0		0
+Class: 4:		0		330		0		0		0		0		0
+Class: 5:		0		330		0		0		0		0		0
+Class: 6:		0		330		0		0		0		0		0
+Class: 7:		0		330		0		0		0		0		0
+TEGC: 0.8571428571428571
+
+Experimento nº 12 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		0		0		238		0		81		11		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		246		12		59		12		1
+Class: 4:		0		0		31		130		8		161		0
+Class: 5:		0		0		85		0		213		29		3
+Class: 6:		0		0		10		143		0		177		0
+Class: 7:		0		0		2		0		0		1		327
+TEGC: 0.37835497835497833
+
+Experimento nº 13 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		5		3		2		1		6		7
+Class: 1:		0		87		237		0		0		6		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		0		61		247		0		0		22		0
+Class: 4:		0		15		31		0		0		284		0
+Class: 5:		0		225		84		0		0		21		0
+Class: 6:		0		0		18		0		0		312		0
+Class: 7:		0		1		2		0		0		0		327
+TEGC: 0.3761904761904762
+
+Experimento nº 14 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		5		6		6		7
+Class: 1:		184		0		69		77		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		50		12		11		0
+Class: 4:		46		0		1		8		157		118		0
+Class: 5:		43		0		54		207		26		0		0
+Class: 6:		29		0		0		0		175		126		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 15 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		5		3		6		2		6		7
+Class: 1:		184		77		69		0		0		0		0
+Class: 2:		0		0		0		0		330		0		0
+Class: 3:		61		50		196		12		0		11		0
+Class: 4:		46		8		1		157		0		118		0
+Class: 5:		44		207		53		26		0		0		0
+Class: 6:		29		0		0		175		0		126		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 16 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		3		5		6		7
+Class: 1:		0		0		237		0		87		6		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		244		26		57		3		0
+Class: 4:		0		0		31		12		15		272		0
+Class: 5:		0		0		84		0		225		21		0
+Class: 6:		0		0		18		2		0		310		0
+Class: 7:		0		0		2		0		1		0		327
+TEGC: 0.3670995670995671
+
+Experimento nº 17 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		7		3		2		5		6		6
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		61		0		196		0		50		12		11
+Class: 4:		48		0		1		0		8		156		117
+Class: 5:		48		0		54		0		208		20		0
+Class: 6:		30		0		0		0		0		174		126
+Class: 7:		2		327		0		0		0		1		0
+TEGC: 0.33116883116883117
+
+Experimento nº 18 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		6		2		3		1		5		6		7
+Class: 1:		17		0		0		240		73		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		3		0		20		187		116		3		1
+Class: 4:		161		0		2		31		7		129		0
+Class: 5:		36		0		0		75		181		0		38
+Class: 6:		173		0		0		18		0		139		0
+Class: 7:		1		0		0		2		0		0		327
+TEGC: 0.38961038961038963
+
+Experimento nº 19 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		6		2		3		4		4		1		7
+Class: 1:		0		0		0		13		0		317		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		3		0		24		3		1		294		5
+Class: 4:		19		0		3		149		121		38		0
+Class: 5:		1		0		0		66		0		225		38
+Class: 6:		194		0		0		136		0		0		0
+Class: 7:		0		0		0		1		0		1		328
+TEGC: 0.36666666666666664
+
+Experimento nº 20 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		6		3		1		5		6		7
+Class: 1:		0		0		70		184		76		0		0
+Class: 2:		330		0		0		0		0		0		0
+Class: 3:		0		12		196		61		50		11		0
+Class: 4:		0		156		1		48		8		117		0
+Class: 5:		0		19		54		48		209		0		0
+Class: 6:		0		174		0		30		0		126		0
+Class: 7:		0		1		0		2		0		0		327
+TEGC: 0.3307359307359307
+
+Experimento nº 21 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		5		6		3		6		7
+Class: 1:		184		0		77		0		69		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		50		12		196		11		0
+Class: 4:		48		0		8		156		1		117		0
+Class: 5:		48		0		209		19		54		0		0
+Class: 6:		30		0		0		174		0		126		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.3307359307359307
+
+Experimento nº 22 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		1		1		5		6		7
+Class: 1:		252		0		0		0		73		5		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		200		0		0		0		107		22		1
+Class: 4:		31		0		0		0		9		290		0
+Class: 5:		81		0		0		0		194		21		34
+Class: 6:		20		0		0		0		0		310		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.38831168831168833
+
+Experimento nº 23 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		5		6		2		5		6		7
+Class: 1:		245		0		0		0		72		13		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		178		9		12		0		119		12		0
+Class: 4:		32		1		130		0		6		161		0
+Class: 5:		73		62		0		0		158		37		0
+Class: 6:		18		0		133		0		0		179		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.37922077922077924
+
+Experimento nº 24 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		6		3		1		2		6		7
+Class: 1:		0		9		0		321		0		0		0
+Class: 2:		0		0		0		0		330		0		0
+Class: 3:		0		3		30		290		0		2		5
+Class: 4:		0		158		7		38		0		127		0
+Class: 5:		0		54		0		237		0		1		38
+Class: 6:		0		168		0		2		0		160		0
+Class: 7:		0		1		0		1		0		0		328
+TEGC: 0.4212121212121212
+
+Experimento nº 25 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		7		3		5		6		6
+Class: 1:		184		0		0		69		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		0		196		50		11		12
+Class: 4:		48		0		0		1		8		117		156
+Class: 5:		48		0		0		54		209		0		19
+Class: 6:		30		0		0		0		0		126		174
+Class: 7:		2		0		327		0		0		0		1
+TEGC: 0.3307359307359307
+
+Experimento nº 26 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		6		5		1		6		7
+Class: 1:		0		0		17		75		238		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		12		116		189		12		1
+Class: 4:		0		0		162		7		31		130		0
+Class: 5:		0		0		36		181		75		0		38
+Class: 6:		0		0		173		0		20		137		0
+Class: 7:		0		0		1		0		2		0		327
+TEGC: 0.4
+
+Experimento nº 27 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		5		3		2		6		6		7
+Class: 1:		184		76		70		0		0		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		61		50		196		0		12		11		0
+Class: 4:		48		8		1		0		156		117		0
+Class: 5:		48		209		54		0		19		0		0
+Class: 6:		30		0		0		0		174		126		0
+Class: 7:		2		0		0		0		1		0		327
+TEGC: 0.3307359307359307
+
+Experimento nº 28 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		6
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		0		50		12		11
+Class: 4:		46		0		1		0		8		157		118
+Class: 5:		44		0		53		0		207		26		0
+Class: 6:		29		0		0		0		0		175		126
+Class: 7:		2		0		0		327		0		1		0
+TEGC: 0.33116883116883117
+
+Experimento nº 29 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		6		2		3		3		5		6		7
+Class: 1:		0		0		238		0		81		11		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		3		0		244		20		59		3		1
+Class: 4:		129		0		31		2		8		160		0
+Class: 5:		1		0		84		0		213		29		3
+Class: 6:		143		0		10		0		0		177		0
+Class: 7:		0		0		2		0		0		1		327
+TEGC: 0.37056277056277054
+
+Experimento nº 30 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		7		1		5		6		6
+Class: 1:		0		0		0		240		73		17		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		1		190		115		12		12
+Class: 4:		0		0		0		31		7		162		130
+Class: 5:		0		0		38		75		181		36		0
+Class: 6:		0		0		0		20		0		173		137
+Class: 7:		0		0		327		2		0		1		0
+TEGC: 0.3991341991341991
+
+Experimento nº 31 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		5		6		5		6		7
+Class: 1:		248		0		0		10		72		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		178		0		9		12		119		12		0
+Class: 4:		32		0		1		161		6		130		0
+Class: 5:		73		0		62		37		158		0		0
+Class: 6:		18		0		0		179		0		133		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.37792207792207794
+
+Experimento nº 32 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		6		1		3		2		5		6		7
+Class: 1:		0		184		69		0		77		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		12		61		196		0		50		11		0
+Class: 4:		156		48		1		0		8		117		0
+Class: 5:		21		50		53		0		206		0		0
+Class: 6:		174		30		0		0		0		126		0
+Class: 7:		1		2		0		0		0		0		327
+TEGC: 0.332034632034632
+
+Experimento nº 33 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		4		4		5		6		7
+Class: 1:		200		0		0		57		73		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		180		0		12		15		119		3		1
+Class: 4:		25		0		127		108		6		64		0
+Class: 5:		64		0		0		93		137		0		36
+Class: 6:		17		0		110		11		0		192		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.38484848484848483
+
+Experimento nº 34 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		1		1		1		1		1		1
+Class: 1:		0		330		0		0		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		330		0		0		0		0		0
+Class: 4:		0		330		0		0		0		0		0
+Class: 5:		0		330		0		0		0		0		0
+Class: 6:		0		330		0		0		0		0		0
+Class: 7:		0		330		0		0		0		0		0
+TEGC: 0.8571428571428571
+
+Experimento nº 35 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		6		3		5		6		7
+Class: 1:		184		0		0		69		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		12		196		50		11		0
+Class: 4:		46		0		157		1		8		118		0
+Class: 5:		44		0		26		53		207		0		0
+Class: 6:		29		0		175		0		0		126		0
+Class: 7:		2		0		1		0		0		0		327
+TEGC: 0.33116883116883117
+
+Experimento nº 36 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		6		3		2		5		6		7
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		61		11		196		0		50		12		0
+Class: 4:		48		117		1		0		8		156		0
+Class: 5:		50		0		53		0		206		21		0
+Class: 6:		30		126		0		0		0		174		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.332034632034632
+
+Experimento nº 37 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		0		0		238		0		81		11		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		245		13		59		12		1
+Class: 4:		0		0		31		131		8		160		0
+Class: 5:		0		0		84		1		214		29		2
+Class: 6:		0		0		9		144		0		177		0
+Class: 7:		0		0		2		0		0		1		327
+TEGC: 0.37792207792207794
+
+Experimento nº 38 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		5		4		4		6		7
+Class: 1:		198		0		75		57		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		180		0		119		15		12		3		1
+Class: 4:		25		0		6		108		127		64		0
+Class: 5:		63		0		138		93		0		0		36
+Class: 6:		17		0		0		11		110		192		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.3852813852813853
+
+Experimento nº 39 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		6		1		6		7
+Class: 1:		0		0		0		0		321		9		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		0		20		4		298		3		5
+Class: 4:		0		0		0		132		38		160		0
+Class: 5:		0		0		0		1		237		54		38
+Class: 6:		0		0		0		159		1		170		0
+Class: 7:		0		0		0		0		1		1		328
+TEGC: 0.4251082251082251
+
+Experimento nº 40 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		5		6		6		7
+Class: 1:		184		0		70		76		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		50		11		12		0
+Class: 4:		47		0		1		8		118		156		0
+Class: 5:		48		0		54		209		0		19		0
+Class: 6:		30		0		0		0		126		174		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.3307359307359307
+
+Experimento nº 41 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		236		0		89		0		0		5		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		117		0		181		12		8		12		0
+Class: 4:		36		0		6		128		1		159		0
+Class: 5:		57		0		165		0		62		46		0
+Class: 6:		25		0		0		135		0		170		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.3761904761904762
+
+Experimento nº 42 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		3		2		6		5		6		7
+Class: 1:		184		70		0		0		76		0		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		61		196		0		11		50		12		0
+Class: 4:		48		1		0		117		8		156		0
+Class: 5:		48		54		0		0		209		19		0
+Class: 6:		30		0		0		126		0		174		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.3307359307359307
+
+Experimento nº 43 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		1		1		1		1		1		1
+Class: 1:		0		330		0		0		0		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		0		330		0		0		0		0		0
+Class: 4:		0		330		0		0		0		0		0
+Class: 5:		0		330		0		0		0		0		0
+Class: 6:		0		330		0		0		0		0		0
+Class: 7:		0		330		0		0		0		0		0
+TEGC: 0.8571428571428571
+
+Experimento nº 44 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		6		7		6		5
+Class: 1:		184		0		69		0		0		0		77
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		12		0		11		50
+Class: 4:		46		0		1		157		0		118		8
+Class: 5:		44		0		53		26		0		0		207
+Class: 6:		29		0		0		175		0		126		0
+Class: 7:		2		0		0		1		327		0		0
+TEGC: 0.33116883116883117
+
+Experimento nº 45 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		7		6		5		5		7
+Class: 1:		255		0		0		3		0		72		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		179		0		0		22		9		120		0
+Class: 4:		32		0		0		288		3		7		0
+Class: 5:		74		0		0		23		62		171		0
+Class: 6:		20		0		0		310		0		0		0
+Class: 7:		2		0		156		0		1		0		171
+TEGC: 0.37012987012987014
+
+Experimento nº 46 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		7		5		6		6
+Class: 1:		184		0		69		0		77		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		0		50		11		12
+Class: 4:		46		0		1		0		8		118		157
+Class: 5:		44		0		53		0		207		0		26
+Class: 6:		29		0		0		0		0		126		175
+Class: 7:		2		0		0		327		0		0		1
+TEGC: 0.33116883116883117
+
+Experimento nº 47 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2		3		6		5		6		7
+Class: 1:		184		0		70		0		76		0		0
+Class: 2:		0		330		0		0		0		0		0
+Class: 3:		61		0		196		12		50		11		0
+Class: 4:		47		0		1		156		8		118		0
+Class: 5:		48		0		54		19		209		0		0
+Class: 6:		29		0		0		175		0		126		0
+Class: 7:		2		0		0		1		0		0		327
+TEGC: 0.3303030303030303
+
+Experimento nº 48 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		5		3		6		2		6		7
+Class: 1:		240		73		0		0		0		17		0
+Class: 2:		0		0		0		0		330		0		0
+Class: 3:		187		116		20		3		0		3		1
+Class: 4:		31		7		2		129		0		161		0
+Class: 5:		75		181		0		0		0		36		38
+Class: 6:		18		0		0		139		0		173		0
+Class: 7:		2		0		0		0		0		1		327
+TEGC: 0.38961038961038963
+
+Experimento nº 49 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		6		2		1		5		6		7
+Class: 1:		0		0		0		238		75		17		0
+Class: 2:		0		0		330		0		0		0		0
+Class: 3:		0		12		0		189		116		12		1
+Class: 4:		0		130		0		31		7		162		0
+Class: 5:		0		0		0		75		181		36		38
+Class: 6:		0		137		0		20		0		173		0
+Class: 7:		0		0		0		2		0		1		327
+TEGC: 0.4
+
+Experimento nº 50 de Segmented images (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		6		3		2		5		6		7
+Class: 1:		240		17		0		0		73		0		0
+Class: 2:		0		0		0		330		0		0		0
+Class: 3:		188		3		19		0		116		3		1
+Class: 4:		31		163		0		0		7		129		0
+Class: 5:		75		36		0		0		181		0		38
+Class: 6:		18		173		0		0		0		139		0
+Class: 7:		2		1		0		0		0		0		327
+TEGC: 0.39004329004329
+
+Erro médio: 0.3918181818181818
+Std: 2.5355596784168037E-4
+

@@ -1,0 +1,5 @@
+package com.agrupamentos.hardKMeans;
+
+public class CentroidAleatorio {
+
+}

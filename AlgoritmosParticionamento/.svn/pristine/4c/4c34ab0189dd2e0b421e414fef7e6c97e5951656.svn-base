@@ -1,0 +1,92 @@
+package Ordenamento;
+
+public class CalculoErro {
+
+	private double mediaErro;
+	private double std;
+	private double[] taxaErro = new double[50];
+	private int it;
+
+	public CalculoErro() {
+		this.mediaErro = 0;
+		this.std = 0;
+		this.it = 0;
+	}
+	
+	
+	public int getIt() {
+		return it;
+	}
+
+
+	public void setIt(int it) {
+		this.it = it;
+	}
+
+
+	public double getMediaErro() {
+		return mediaErro;
+	}
+
+	public void setMediaErro(double mediaErro) {
+		this.mediaErro = mediaErro;
+	}
+
+	public double getStd() {
+		return std;
+	}
+
+	public void setStd(double std) {
+		this.std = std;
+	}
+
+	public double[] getTaxaErro() {
+		return taxaErro;
+	}
+
+	
+	
+	public double TEGC(int[][] confMatrix, int numClasses, int elementos) {
+		double erro = 0;
+
+		int majoritario = 0;
+		int acc = 0;
+
+		for (int i = 0; i < numClasses; i++) {
+			for (int j = 0; j < numClasses; j++) {
+				majoritario = Math.max(majoritario, confMatrix[i][j]);
+			}
+			acc += majoritario;
+		}
+
+		int accErro = elementos - acc;
+
+		erro = (double) accErro / (double) elementos;
+
+		this.taxaErro[this.getIt()] = erro;
+		this.it++;
+		if(it == 50){
+			this.stdCalc();
+		}
+		return erro;
+	}
+	
+	private void stdCalc() {
+		
+		double erroStd = 0;
+		double accTEGC = 0;
+
+		for (int i = 0; i < 50; i++) {
+			accTEGC += taxaErro[i];
+		}
+
+		this.mediaErro = accTEGC / 50;
+
+		for (int i = 0; i < 50; i++) {
+			erroStd = Math.pow(taxaErro[i] - this.mediaErro, 2);
+		}
+		erroStd /= 49;
+
+		this.std = Math.sqrt(erroStd);
+	}
+}

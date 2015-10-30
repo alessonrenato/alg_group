@@ -1,0 +1,461 @@
+package com.agrupamentos;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Random;
+
+public class SegmentedImages {
+	private static Elemento aux;
+	private static CalculoErro ce;
+	
+	public static void main(String[] args) throws IOException {
+		int numero = 0;
+		String entradas;
+		FileReader arquivoEntradaImagem = new FileReader("segmentedimages.txt");
+
+		Scanner s1 = null;
+		DataBase base = new DataBase();
+		File saida = new File("resultSegmentedImages.txt");
+		FileWriter out = new FileWriter(saida);
+
+		if (!saida.exists()) {
+			saida.createNewFile();
+		}
+
+		BufferedReader br = new BufferedReader(arquivoEntradaImagem);
+		out.write("\t\t\tARQUIVO SEGMENTED IMAGES\n**********************************************************************\n\n");
+		while (br.ready()) {
+			entradas = br.readLine();
+			s1 = new Scanner(entradas);
+			
+			base.inserir(new Elemento(s1.retornarClasse(), s1.retornarLinha(),
+					numero));
+			numero++;
+
+		}
+		out.write("\t\t\tCENTRO ALEATÓRIO\n----------------------------------------------------------------------\n\n");
+		out.flush();
+		ce = new CalculoErro();
+		
+		for (int i = 0; i < 50; i++) {
+			out.write("Experimento nº " + (i + 1)
+					+ " de Segmented images (centro aleatório)\n");
+
+			kMeansCentroAleatorio(s1.getNumeroClasses(), numero, base, out);
+
+		}
+		out.write("Erro médio: " + ce.getMediaErro() + "\nStd: " + ce.getStd() + "\n\n");
+		out.write("\t\t\tAFETAÇÃO ALEATÓRIA\n----------------------------------------------------------------------\n\n");
+		out.flush();
+
+		
+		ce = new CalculoErro();
+		for (int i = 0; i < 50; i++) {
+			out.write("Experimento nº " + (i + 1)
+					+ " de Segmented images (afetação aleatória)\n");
+			kMeansAfetacaoAleatorio(s1.getNumeroClasses(), numero, base, out);
+		}
+		out.write("Erro médio: " + ce.getMediaErro() + "\nStd: " + ce.getStd() + "\n\n");
+		out.flush();
+		br.close();
+	}
+
+	public static void kMeansAfetacaoAleatorio(int numeroClasses,
+			int numeroElementos, DataBase base, FileWriter out)
+			throws IOException {
+
+		kMeans(afetacaoAleatoria(numeroClasses, numeroElementos, base), base,
+				numeroClasses, numeroElementos, out);
+
+	}
+
+	public static void kMeansCentroAleatorio(int numeroClasses,
+			int numeroElementos, DataBase base, FileWriter out)
+			throws IOException {
+		Centroid[] centros = centroAleatorio(numeroClasses, numeroElementos,
+				base);
+		determinarGrupos(centros, base);
+
+		kMeans(centros, base, numeroClasses, numeroElementos, out);
+
+	}
+
+	public static void fuzzyCmeansCentroAleatorio(int numeroClasses,
+			int numeroElementos, DataBase base) {
+		Centroid[] centros = centroAleatorio(numeroClasses, numeroElementos,
+				base);
+		determinarPertinencias(centros, base);
+
+		fuzzyCmeans(centros, base, numeroClasses, numeroElementos);
+
+	}
+
+	public static Centroid[] afetacaoAleatoria(int numeroClasses,
+			int numeroElementos, DataBase base) {
+		Centroid[] centros = new Centroid[numeroClasses];
+
+		for (int i = 0; i < centros.length; i++) {
+			centros[i] = new Centroid();
+		}
+
+		Random random = new Random();
+
+		int sorteado;
+		Elemento aux = base.getProximo();
+
+		while (aux != null) {
+			sorteado = random.nextInt(numeroClasses);
+			aux.setCentro(centros[sorteado]);
+			aux = aux.getProximo();
+
+		}
+		return centros;
+	}
+
+	public static Centroid[] centroAleatorio(int numeroClasses,
+			int numeroElementos, DataBase base) {
+		Centroid[] centros = new Centroid[numeroClasses];
+
+		for (int i = 0; i < centros.length; i++) {
+			centros[i] = new Centroid();
+		}
+
+		Random random = new Random();
+
+		int[] sorteado = new int[centros.length];
+		boolean sortear = true;
+
+		for (int i = 0; i < centros.length; i++) {
+			int contador = 0;
+			sorteado[i] = random.nextInt(numeroElementos);
+			if (i != 0) {
+				while (sortear == true) {
+					for (int a = 0; a <= i; a++) {
+						if (sorteado[a] != sorteado[i]) {
+							contador++;
+						}
+					}
+					if (contador < i) {
+						sorteado[i] = random.nextInt(numeroElementos);
+					} else {
+						sortear = false;
+
+					}
+				}
+			}
+
+			Elemento aux = base.getProximo();
+
+			while (aux.getNumero() != sorteado[i]) {
+				aux = aux.getProximo();
+
+			}
+
+			centros[i].setCordenada(aux.getCordenada());
+
+		}
+
+		return centros;
+	}
+
+	/*
+	 * public static Centroid[] afetacaoAleatoriaFuzzy(int numeroClasses, int
+	 * numeroElementos, DataBase base){ Elemento aux = base.getProximo();
+	 * Centroid[] centros = new Centroid[numeroClasses];
+	 * 
+	 * for (int i = 0; i < centros.length; i++) { centros[i] = new Centroid(); }
+	 * Random random = new Random(); double sorteado;
+	 * 
+	 * while(aux != null){ for(int i=0 ; i<centros.length ; i++){ sorteado =
+	 * random.nextDouble(); }
+	 * 
+	 * aux = aux.getProximo(); } }
+	 */
+
+	public static void kMeans(Centroid[] centros, DataBase base,
+			int numeroClasses, int numeroElem, FileWriter out)
+			throws IOException {
+		aux = base.getProximo();
+		double[] cordenadaElementos = new double[aux.getCordenada().length];
+
+		for (int a = 0; a < 100; a++) { // ALGORITMO
+			for (int i = 0; i < centros.length; i++) { // DETERMINANDO NOVOS
+														// CENTROS
+
+				for (int w = 0; w < cordenadaElementos.length; w++) {
+					cordenadaElementos[w] = 0;
+				}
+				aux = base.getProximo();
+				int numeroElementos = 0;
+
+				while (aux != null) {
+					if (aux.getCentro().equals(centros[i])) {
+						numeroElementos++;
+
+						double[] cordenadaAtual = aux.getCordenada();
+
+						for (int j = 0; j < cordenadaElementos.length; j++) {
+							cordenadaElementos[j] += cordenadaAtual[j];
+						}
+					}
+					aux = aux.getProximo();
+				}
+
+				double[] novaCordenadaCentroid = new double[cordenadaElementos.length];
+
+				for (int j = 0; j < cordenadaElementos.length; j++) {
+					novaCordenadaCentroid[j] = cordenadaElementos[j]
+							/ numeroElementos;
+				}
+
+				centros[i].setCordenada(novaCordenadaCentroid);
+
+			}
+			; // DETERMINANDO NOVOS GRUPOS
+
+			if (determinarGrupos(centros, base))
+				break;
+
+		}
+
+		for (int i = 0; i < centros.length; i++) { // VOTACAO
+			int indice = 0;
+			aux = base.getProximo();
+			int[] votacao = new int[numeroClasses];
+
+			for (int j = 0; j < votacao.length; j++) {
+				votacao[j] = 0;
+
+			}
+
+			while (aux != null) {
+
+				if (centros[i].equals(aux.getCentro())) {
+					votacao[aux.getClasse() - 1]++;
+
+				}
+				aux = aux.getProximo();
+			}
+			centros[i].setQtDeElementos(votacao);
+
+			int maiorVotado = 0;
+			for (int j = 0; j < votacao.length; j++) {
+				if (j == 0) {
+					maiorVotado = votacao[j];
+					indice = j;
+				} else if (votacao[j] > maiorVotado) {
+					maiorVotado = votacao[j];
+					indice = j;
+
+				}
+			}
+
+			centros[i].setClasse(indice + 1);
+		}
+
+		for (int i = 0; i < centros.length; i++) { // SORT
+			Centroid auxiliar = centros[centros[i].getClasse() - 1];
+			centros[centros[i].getClasse() - 1] = centros[i];
+			centros[i] = auxiliar;
+		}
+
+		out.write("Confusion Matrix:\n");
+		out.write("Cluster:");
+
+		for (int i = 0; i < centros.length; i++) {
+			out.write("\t\t" + centros[i].getClasse());
+		}
+		out.write("\n");
+
+		int[][] matrizResultado = new int[numeroClasses][numeroClasses];
+
+		for (int i = 0; i < centros.length; i++) {
+			int[] a = centros[i].getQtDeElementos();
+			for (int j = 0; j < centros[i].getQtDeElementos().length; j++) {
+				matrizResultado[i][j] = a[j];
+			}
+		}
+
+		for (int i = 0; i < numeroClasses; i++) {
+			out.write("Class: " + (i + 1) + ":");
+
+			for (int j = 0; j < centros.length; j++) {
+				out.write("\t\t" + matrizResultado[j][i]);
+			}
+			out.write("\n");
+		}
+		out.write("TEGC: " + ce.TEGC(matrizResultado, numeroClasses, numeroElem) + "\n\n");
+		out.flush();
+	}
+
+	public static boolean determinarGrupos(Centroid[] centros, DataBase base) {
+		Elemento aux = base.getProximo();
+		boolean parar = true;
+
+		while (aux != null) {
+			double dissimilaridade = 0;
+			double[] cordenadaElemento = aux.getCordenada(), cordenadaCentro;
+
+			Centroid centroAux = aux.getCentro();
+
+			for (int i = 0; i < centros.length; i++) {
+				dissimilaridade = 0;
+				cordenadaCentro = centros[i].getCordenada();
+				int j;
+				for (j = 0; j < cordenadaElemento.length; j++) {
+
+					dissimilaridade += (cordenadaElemento[j] - cordenadaCentro[j])
+							* (cordenadaElemento[j] - cordenadaCentro[j]);
+				}
+
+				if (i == 0) {
+					aux.setDistanciaCentro(dissimilaridade);
+					aux.setCentro(centros[i]);
+
+				} else if (dissimilaridade < aux.getDistanciaCentro()) {
+					aux.setDistanciaCentro(dissimilaridade);
+					aux.setCentro(centros[i]);
+
+				}
+			}
+
+			if (!aux.getCentro().equals(centroAux))
+				parar = false;
+			aux = aux.getProximo();
+		}
+		return parar;
+	}
+
+	public static void fuzzyCmeans(Centroid[] centros, DataBase base,
+			int numeroClasses, int numeroDeElementos) {
+		Elemento aux = base.getProximo();
+
+		for (int a = 0; a < 100; a++) { // ALGORITMO
+										// DETERMINANDO NOVOS CENTROS
+
+			double[][] cordenadasPonderadas = new double[centros.length][centros[0]
+					.getCordenada().length];
+			double[] pertinencias = new double[centros.length];
+
+			for (int w = 0; w < centros.length; w++) {
+				pertinencias[w] = 0;
+			}
+
+			for (int w = 0; w < centros.length; w++) {
+				for (int y = 0; y < centros[0].getCordenada().length; y++) {
+					cordenadasPonderadas[w][y] = 0;
+				}
+			}
+			aux = base.getProximo();
+
+			while (aux != null) {
+				double[] pertinencia = aux.getGrauPertinencia();
+				double[] cordenadaAtual = aux.getCordenada();
+
+				for (int w = 0; w < centros.length; w++) {
+					pertinencia[w] += pertinencia[w];
+					for (int y = 0; y < centros[0].getCordenada().length; y++) {
+						cordenadasPonderadas[w][y] += (pertinencia[w] * cordenadaAtual[y]);
+					}
+				}
+
+				aux = aux.getProximo();
+			}
+
+			for (int w = 0; w < centros.length; w++) {
+				double[] novaCordenadaCentroid = new double[centros[0]
+						.getCordenada().length];
+				for (int y = 0; y < centros[0].getCordenada().length; y++) {
+					novaCordenadaCentroid[w] = cordenadasPonderadas[w][y]
+							/ pertinencias[w];
+				}
+				centros[w].setCordenada(novaCordenadaCentroid);
+			}
+
+			aux = base.getProximo();
+
+			determinarPertinencias(centros, base); // DETERMINANDO TODAS AS
+													// PERTINENCIAS
+		}
+
+	}
+
+	public static void determinarPertinencias(Centroid[] centros, DataBase base) {
+		Elemento aux = base.getProximo();
+
+		while (aux != null) {
+			int l = 2;
+			double distancia = 0;
+			double[] cordenadaElemento = aux.getCordenada();
+			boolean totalPertinencia = false, continuar = true;
+			double[] pertinencia = new double[centros.length];
+			for (int i = 0; i < pertinencia.length; i++) {
+				pertinencia[i] = 0;
+			}
+
+			for (int i = 0; i < centros.length && continuar == false; i++) { // CALCULAR
+																				// AS
+																				// PERTINENCIA
+																				// DO
+																				// ELEMENTO
+																				// AUX
+				double[] cordenadaCentro = centros[i].getCordenada(); // PARA
+																		// TODOS
+																		// OS
+																		// CENTROS
+				for (int j = 0; j < cordenadaElemento.length; j++) {
+
+					distancia = (cordenadaElemento[j] - cordenadaCentro[j])
+							* (cordenadaElemento[j] - cordenadaCentro[j]);
+					if (j == (cordenadaElemento.length - 1) && distancia == 0) {
+						totalPertinencia = true;
+					}
+
+				}
+
+				if (totalPertinencia != true) {
+					double distancia2 = 0;
+					for (int a = 0; a < centros.length; a++) { // SE O ELEMENTO
+																// NÃO PERTENCE
+																// TOTALMENTE A
+																// ALGUM CENTRO
+						cordenadaCentro = centros[a].getCordenada(); // CALCULAR
+																		// A
+																		// PERTINENCIA
+																		// AO
+																		// CENTRO
+																		// I
+
+						for (int f = 0; f < cordenadaElemento.length; f++) {
+
+							distancia2 = (cordenadaElemento[f] - cordenadaCentro[f])
+									* (cordenadaElemento[f] - cordenadaCentro[f]);
+
+						}
+						double divisao = distancia / distancia2;
+						float exp = 2 / l - 1;
+						pertinencia[i] += Math.pow(divisao, exp);
+					}
+
+				} else { // SE ENCONTROU ALGUM CENTRO QUE O ELEMENTO TEM
+							// PERTINENCIA MAXIMA
+					continuar = false; // COLOCAR PERTINENCIA = 1 NO CENTRO I E
+										// 0 EM TODOS OUTROS
+					pertinencia[i] = 1;
+
+					for (int w = 0; w < i; w++) {
+						pertinencia[w] = 0;
+					}
+					for (int w = i + 1; i < centros.length; w++) {
+						pertinencia[w] = 0;
+					}
+				}
+			}
+			aux.setGrauPertinencia(pertinencia);
+
+		}
+	}
+}

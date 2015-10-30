@@ -1,0 +1,313 @@
+			ARQUIVO SEGMENTED IMAGES
+**********************************************************************
+
+HARD K MEANS
+
+FUZY C MEANS
+
+			CENTRO ALEATÓRIO
+----------------------------------------------------------------------
+
+Experimento nº 1 de Segmented images (centro aleatório)
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		150		0
+Class: 2:		120		0
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		0		150
+Class: 2:		0		120
+TEGC: 0.4444444444444444
+
+Confusion Matrix:
+Cluster:		1		1

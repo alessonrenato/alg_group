@@ -1,0 +1,1435 @@
+			ARQUIVO HEART
+**********************************************************************
+
+HARD K MEANS
+
+			CENTRO ALEATÓRIO
+----------------------------------------------------------------------
+
+Experimento nº 1 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		67		83
+Class: 2:		18		102
+TEGC: 0.37407407407407406
+
+Experimento nº 2 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 3 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 4 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 5 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 6 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 7 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 8 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		128		22
+Class: 2:		44		76
+TEGC: 0.24444444444444444
+
+Experimento nº 9 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 10 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 11 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 12 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		119		31
+Class: 2:		23		97
+TEGC: 0.2
+
+Experimento nº 13 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 14 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 15 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 16 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 17 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 18 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		67		83
+Class: 2:		20		100
+TEGC: 0.3814814814814815
+
+Experimento nº 19 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 20 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 21 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 22 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 23 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		101		49
+Class: 2:		78		42
+TEGC: 0.4444444444444444
+
+Experimento nº 24 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 25 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 26 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 27 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		119		31
+Class: 2:		23		97
+TEGC: 0.2
+
+Experimento nº 28 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 29 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 30 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		82		68
+Class: 2:		76		44
+TEGC: 0.4444444444444444
+
+Experimento nº 31 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 32 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 33 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 34 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 35 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 36 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 37 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 38 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		67		83
+Class: 2:		15		105
+TEGC: 0.362962962962963
+
+Experimento nº 39 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 40 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 41 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 42 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 43 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 44 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 45 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 46 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 47 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 48 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		67		83
+Class: 2:		18		102
+TEGC: 0.37407407407407406
+
+Experimento nº 49 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 50 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Erro médio: 0.2563703703703702
+Std: 0.021576719576719597
+
+			AFETAÇÃO ALEATÓRIA
+----------------------------------------------------------------------
+
+Experimento nº 1 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 2 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 3 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		82		68
+Class: 2:		25		95
+TEGC: 0.34444444444444444
+
+Experimento nº 4 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 5 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		119		31
+Class: 2:		23		97
+TEGC: 0.2
+
+Experimento nº 6 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		23		97
+TEGC: 0.21481481481481482
+
+Experimento nº 7 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		119		31
+Class: 2:		23		97
+TEGC: 0.2
+
+Experimento nº 8 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 9 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 10 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		23		97
+TEGC: 0.21481481481481482
+
+Experimento nº 11 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 12 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 13 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 14 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 15 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 16 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 17 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 18 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		119		31
+Class: 2:		23		97
+TEGC: 0.2
+
+Experimento nº 19 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 20 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		23		97
+TEGC: 0.21481481481481482
+
+Experimento nº 21 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 22 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 23 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 24 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 25 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 26 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 27 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 28 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 29 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 30 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 31 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 32 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 33 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 34 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 35 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 36 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		86		64
+Class: 2:		46		74
+TEGC: 0.4074074074074074
+
+Experimento nº 37 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 38 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		67		83
+Class: 2:		18		102
+TEGC: 0.37407407407407406
+
+Experimento nº 39 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		119		31
+Class: 2:		23		97
+TEGC: 0.2
+
+Experimento nº 40 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		67		83
+Class: 2:		14		106
+TEGC: 0.3592592592592593
+
+Experimento nº 41 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 42 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		22		98
+TEGC: 0.2
+
+Experimento nº 43 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 44 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 45 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 46 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 47 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		118		32
+Class: 2:		23		97
+TEGC: 0.2037037037037037
+
+Experimento nº 48 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		119		31
+Class: 2:		23		97
+TEGC: 0.2
+
+Experimento nº 49 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Experimento nº 50 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		115		35
+Class: 2:		22		98
+TEGC: 0.2111111111111111
+
+Erro médio: 0.23488888888888884
+Std: 0.0033968253968253903
+
+
+
+FUZY C MEANS
+
+			CENTRO ALEATÓRIO
+----------------------------------------------------------------------
+
+Experimento nº 1 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 2 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 3 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 4 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 5 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 6 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 7 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 8 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 9 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 10 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 11 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 12 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 13 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 14 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 15 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 16 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 17 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 18 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 19 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 20 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 21 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 22 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 23 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 24 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 25 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 26 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 27 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 28 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 29 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 30 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 31 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 32 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 33 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 34 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 35 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		1
+Class: 1:		149		1
+Class: 2:		120		0
+TEGC: 0.4444444444444444
+
+Experimento nº 36 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 37 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 38 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 39 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 40 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 41 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 42 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 43 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 44 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 45 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 46 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 47 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 48 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 49 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 50 de Heart (centro aleatório)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Erro médio: 0.21214814814814806
+Std: 6.772486772486652E-4
+
+			AFETAÇÃO ALEATÓRIA
+----------------------------------------------------------------------
+
+Experimento nº 1 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 2 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 3 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 4 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 5 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 6 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 7 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 8 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 9 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 10 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 11 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 12 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 13 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 14 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 15 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 16 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 17 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 18 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 19 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 20 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 21 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 22 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 23 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 24 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 25 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 26 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 27 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 28 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 29 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 30 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 31 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 32 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 33 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 34 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 35 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 36 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 37 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 38 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 39 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 40 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 41 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 42 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 43 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 44 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 45 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 46 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 47 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		2		1
+Class: 1:		33		117
+Class: 2:		97		23
+TEGC: 0.2074074074074074
+
+Experimento nº 48 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 49 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Experimento nº 50 de Heart (afetação aleatória)
+Confusion Matrix:
+Cluster:		1		2
+Class: 1:		117		33
+Class: 2:		23		97
+TEGC: 0.2074074074074074
+
+Erro médio: 0.2074074074074073
+Std: 1.586032892321652E-17
+
+
+
